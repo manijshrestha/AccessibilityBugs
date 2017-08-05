@@ -1,9 +1,9 @@
-#Accessiblity Bug
+# Accessiblity Bug
 
 This repo is to demonstrate issues with Android Accessibility
 
 
-###BottomNavigationView - https://issuetracker.google.com/issues/37151340
+### BottomNavigationView - https://issuetracker.google.com/issues/37151340
 The BottomNavigationView does not give a hint that use is using bottom navigation.
 It just reads the title of the tab and does not let the user know how many tabs are present, which of the tab they are currently navigating.
 
